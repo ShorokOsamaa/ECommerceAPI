@@ -15,6 +15,6 @@ E-commerce Node.js Express API! This RESTFUL API provides essential functionalit
 - MySQL
 - JWT (JSON Web Tokens)
 
-## Documentaion
+## Documentation
 
 [LINK](https://documenter.getpostman.com/view/34470665/2sA3JKc2DX)
